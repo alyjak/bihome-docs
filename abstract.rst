@@ -9,6 +9,10 @@ spent [cite], total time spent [cite]. probably should try an break it
 out into different sectors (US only) maybe a grid of time zone, and a
 north south division as well?
 
+See http://freakonomics.com/podcast/how-stupid-is-our-obsession-with-lawns-rebroadcast/ for some
+crazy staticstics here.
+
+
 [r] The farm to table movememt is limited in its distribution methods
 (boxed veggies, farmers markets) [cite] and its growth is petering out
 [cite].
