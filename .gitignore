@@ -1,4 +1,9 @@
+.DS_Store
+
+# Emacs
 *~
 #.
+
+# Build
 _build/
 pina/build/
